@@ -3,7 +3,8 @@ const input = document.querySelector(".top-banner input");
 const msg = document.querySelector(".top-banner .msg");
 const list = document.querySelector(".ajax-section .cities");
 
-//API key for openweathermap
+//API key for openweathermap API
+//if its doesn't work properly replace it with your own API key
 api_key = 'a7e172c334cd2d2b6f7af68d2470f87f'
 
 
